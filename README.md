@@ -96,4 +96,3 @@ Phù hợp khi làm việc nhóm hoặc trên nhánh chung vì không viết l�
 * Thực hiện thành công `git revert`.
 * Tạo được commit mới bắt đầu bằng `Revert`.
 * Working Tree cuối cùng ở trạng thái sạch.
-# Git Reset vs Revert
