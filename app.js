@@ -1,1 +1,1 @@
-console.log('BUG: Code has an error');
+console.log('Code version 1');
